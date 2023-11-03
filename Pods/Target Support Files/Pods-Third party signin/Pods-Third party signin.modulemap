@@ -1,0 +1,6 @@
+framework module Pods_Third_party_signin {
+  umbrella header "Pods-Third party signin-umbrella.h"
+
+  export *
+  module * { export * }
+}
